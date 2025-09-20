@@ -34,3 +34,24 @@ Tujuannya adalah mempermudah proses penyimpanan, pencarian, dan pengarsipan doku
    ```bash
    git clone https://github.com/frdaatul/aplikasi_arsipsurat.git
 
+## 📸 Screenshot Aplikasi
+
+### 📝 Halaman Edit
+![Halaman Edit](screenshot/edit.png)
+
+### 📤 Halaman Unggah
+![Halaman Unggah](screenshot/unggah.png)
+
+### 👀 Halaman Lihat
+![Halaman Lihat](screenshot/lihat.png)
+
+### ℹ️ Halaman About
+![Halaman About](screenshot/about.png)
+
+### 📂 Halaman Kategori
+![Halaman Kategori](screenshot/kategori.png)
+
+### 📑 Halaman Arsip
+![Halaman Arsip](screenshot/arsip.png)
+
+
