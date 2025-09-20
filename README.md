@@ -37,10 +37,10 @@ Tujuannya adalah mempermudah proses penyimpanan, pencarian, dan pengarsipan doku
 ## 📸 Screenshot Aplikasi
 
 ### 📝 Halaman Edit
-![Halaman Edit](screenshot/edit.png)
+![Halaman Edit](edit.png)
 
 ### 📤 Halaman Unggah
-![Halaman Unggah](screenshot/unggah.png)
+![Halaman Unggah](unggah.png)
 
 ### 👀 Halaman Lihat
 ![Halaman Lihat](screenshot/lihat.png)
@@ -49,9 +49,12 @@ Tujuannya adalah mempermudah proses penyimpanan, pencarian, dan pengarsipan doku
 ![Halaman About](about.png)
 
 ### 📂 Halaman Kategori
-![Halaman Kategori](screenshot/kategori.png)
+![Halaman Kategori](kategori.png)
 
 ### 📑 Halaman Arsip
-![Halaman Arsip](screenshot/arsip.png)
+![Halaman Arsip](arsip.png)
+
+### 📑 Halaman Arsipubah
+![Halaman Arsipubah](arsipubah.png)
 
 
