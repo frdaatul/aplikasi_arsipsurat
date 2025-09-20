@@ -46,7 +46,7 @@ Tujuannya adalah mempermudah proses penyimpanan, pencarian, dan pengarsipan doku
 ![Halaman Lihat](screenshot/lihat.png)
 
 ### ℹ️ Halaman About
-![Halaman About](screenshot/about.png)
+![Halaman About](about.png)
 
 ### 📂 Halaman Kategori
 ![Halaman Kategori](screenshot/kategori.png)
