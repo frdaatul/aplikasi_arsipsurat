@@ -43,7 +43,7 @@ Tujuannya adalah mempermudah proses penyimpanan, pencarian, dan pengarsipan doku
 ![Halaman Unggah](unggah.png)
 
 ### 👀 Halaman Lihat
-![Halaman Lihat](screenshot/lihat.png)
+![Halaman Lihat](lihat.png)
 
 ### ℹ️ Halaman About
 ![Halaman About](about.png)
