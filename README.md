@@ -57,4 +57,7 @@ Tujuannya adalah mempermudah proses penyimpanan, pencarian, dan pengarsipan doku
 ### 📑 Halaman Arsipubah
 ![Halaman Arsipubah](arsipubah.png)
 
+### 📑 Notifikasi
+![Notifikasi](notifikasi.png)
+
 
